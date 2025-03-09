@@ -22,10 +22,12 @@
 ---
 
 ## 🖥️ ** Kulanılan Teknolojiler **
-
 - **Frontend**: HTML, CSS, JavaScript
 - **API**: Hugging Face API (Görsel Üretimi için)
 - **Font**: Google Fonts (Roboto)
 
 📬 İletişim
 Herhangi bir sorun, geri bildirim veya soru için bana emrahhckr@gmil.com üzerinden ulaşabilirsiniz
+
+## 🌟 Canlı Demo 🌟
+https://ai-gorsel-uretici.netlify.app/
