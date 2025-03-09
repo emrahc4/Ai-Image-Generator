@@ -31,4 +31,4 @@
 Herhangi bir sorun, geri bildirim veya soru için bana emrahhckr@gmil.com üzerinden ulaşabilirsiniz
 
 ## 🌟 Canlı Demo 🌟
-
+https://ai-gorsel-uretici.netlify.app/
